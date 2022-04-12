@@ -26,14 +26,14 @@
   </div>
 </template>
 
-// JavaScript section
+// JavaScript section d1420d5a03e86e
 <script>
 
 export default {
   name: 'App',
   data () {
     return {
-      api_key: 'd1420d5a03e86eb8c311e8ea8782ad6e',
+      api_key: 'KEY HIDDEN FOR SECURITY b8c311e8ea8782ad6e',
       url_base: 'http://api.openweathermap.org/data/2.5/',
       query: '',
       weather: {}
